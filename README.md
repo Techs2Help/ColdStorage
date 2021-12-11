@@ -28,7 +28,7 @@ This OS is used as a cold storage due to properties listed below:
 **<em>Chapters marked with \* need to be done on both USBs, Active and Backup</em>**
 
 ## Install Tails OS \*
-To install Tails OS, follow the documentation on the [official website](https://tails.boum.org/install/index.en.html).
+To install Tails OS, follow the documentation on the [Official Website](https://tails.boum.org/install/index.en.html).
 Follow this procedure for both USBs, active and backup.
 
 ## Cold Storage Configuration
@@ -61,10 +61,10 @@ To be able to use the cli, download the prebuilt version from the [Official GitH
 
 ## Backup encrypted storage
 Once the Active USB is ready, files of the pool are copied and tools installed, backup everything on the Backup USB.
-To Backup the Persistent Storage, follow the [official documentation](https://tails.boum.org/doc/first_steps/persistence/backup/index.en.html#update)
+To Backup the Persistent Storage, follow the [Official Documentation](https://tails.boum.org/doc/first_steps/persistence/backup/index.en.html#update)
 Keep in mind that it is best practice to have same version on both USBs
 
 ## Upgrade OS
-To Upgrade the OS, follow the [official documentation](https://tails.boum.org/upgrade/tails-overview/index.en.html)
+To Upgrade the OS, follow the [Official Documentation](https://tails.boum.org/upgrade/tails-overview/index.en.html)
 A temporary USB of at least 8GB is needed.
 
